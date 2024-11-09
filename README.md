@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin
-- 👀 I’m interested in ... stuff and things
-- 🌱 I’m currently learning ... R, git, zsh... basics
-- 💞️ I’m looking to collaborate on ... making the world a better place
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 Reach me at mminns at gmail dot com
 
 <!---
